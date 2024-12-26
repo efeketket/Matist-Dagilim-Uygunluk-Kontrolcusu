@@ -1,0 +1,14 @@
+C:\Users\Efe\Desktop\Calismalar v0.1\daglimuygunlukkontrolcüsü\daglimuygunlukkontrolcüsü\bin\Debug\daglimuygunlukkontrolcüsü.exe.config
+C:\Users\Efe\Desktop\Calismalar v0.1\daglimuygunlukkontrolcüsü\daglimuygunlukkontrolcüsü\bin\Debug\daglimuygunlukkontrolcüsü.exe
+C:\Users\Efe\Desktop\Calismalar v0.1\daglimuygunlukkontrolcüsü\daglimuygunlukkontrolcüsü\bin\Debug\daglimuygunlukkontrolcüsü.pdb
+C:\Users\Efe\Desktop\Calismalar v0.1\daglimuygunlukkontrolcüsü\daglimuygunlukkontrolcüsü\obj\Debug\daglimuygunlukkontrolcüsü.csproj.AssemblyReference.cache
+C:\Users\Efe\Desktop\Calismalar v0.1\daglimuygunlukkontrolcüsü\daglimuygunlukkontrolcüsü\obj\Debug\daglimuygunlukkontrolcüsü.csproj.SuggestedBindingRedirects.cache
+C:\Users\Efe\Desktop\Calismalar v0.1\daglimuygunlukkontrolcüsü\daglimuygunlukkontrolcüsü\obj\Debug\daglimuygunlukkontrolcüsü.Properties.Resources.resources
+C:\Users\Efe\Desktop\Calismalar v0.1\daglimuygunlukkontrolcüsü\daglimuygunlukkontrolcüsü\obj\Debug\daglimuygunlukkontrolcüsü.csproj.GenerateResource.cache
+C:\Users\Efe\Desktop\Calismalar v0.1\daglimuygunlukkontrolcüsü\daglimuygunlukkontrolcüsü\obj\Debug\daglimuygunlukkontrolcüsü.csproj.CoreCompileInputs.cache
+C:\Users\Efe\Desktop\Calismalar v0.1\daglimuygunlukkontrolcüsü\daglimuygunlukkontrolcüsü\obj\Debug\daglimuygunlukkontrolcüsü.exe
+C:\Users\Efe\Desktop\Calismalar v0.1\daglimuygunlukkontrolcüsü\daglimuygunlukkontrolcüsü\obj\Debug\daglimuygunlukkontrolcüsü.pdb
+C:\Users\Efe\Desktop\Calismalar v0.1\daglimuygunlukkontrolcüsü\daglimuygunlukkontrolcüsü\obj\Debug\daglimuygunlukkontrolcüsü.Form1.resources
+C:\Users\Efe\Desktop\Calismalar v0.1\daglimuygunlukkontrolcüsü\daglimuygunlukkontrolcüsü\bin\Debug\MathNet.Numerics.dll
+C:\Users\Efe\Desktop\Calismalar v0.1\daglimuygunlukkontrolcüsü\daglimuygunlukkontrolcüsü\bin\Debug\MathNet.Numerics.xml
+C:\Users\Efe\Desktop\Calismalar v0.1\daglimuygunlukkontrolcüsü\daglimuygunlukkontrolcüsü\obj\Debug\daglimuygunlukkontrolcüsü.csproj.CopyComplete
